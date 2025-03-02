@@ -227,7 +227,7 @@ img.small{
             padding-bottom: 1em;
             padding-left: 2em;
             position: fixed;
-            width: 40vw;
+            width: 60vw;
             height: 1em;
             z-index: 3;
             overscroll-behavior-x: none;
